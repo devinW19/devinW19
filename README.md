@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 As a dedicated Computer Science undergraduate, I thrive at the intersection of Artificial Intelligence, Data Science, Web Development, and IT Engineering. My curiosity drives me to explore innovative projects where I can both learn and contribute meaningfully. With a growing interest in IT engineering, I am expanding my expertise into systems, infrastructure, and technology integration bridging software development with practical engineering solutions. <br><br>Always eager to embrace new technologies, I am committed to continuous growth and collaboration. Let’s connect and explore exciting opportunities to innovate, build, and solve real-world challenges together!
 
 
